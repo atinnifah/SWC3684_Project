@@ -112,7 +112,7 @@ public class MainGUI extends JFrame
         {
             public void actionPerformed(ActionEvent e)
             {
-                displayQueue(routing.getQueue2(),"QUEUE 1");
+                displayQueue(routing.getQueue2(),"QUEUE 2");
             }
         });
         
