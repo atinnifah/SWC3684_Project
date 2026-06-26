@@ -1,0 +1,100 @@
+CR001;EcoFreight Express;Electric Van;SHP901;Perishables;5;2026-06-02;12;450.00
+CR001;EcoFreight Express;Electric Van;SHP902;Standard Electronics;4;2026-06-02;14;300.00
+CR001;EcoFreight Express;Electric Van;SHP903;Bulk Apparel;3;2026-06-03;18;250.00
+CR001;EcoFreight Express;Electric Van;SHP904;Perishables;5;2026-06-03;10;10400.00
+CR001;EcoFreight Express;Electric Van;SHP905;Hazardous Materials;1;2026-06-04;24;850.00
+CR002;Global Green Haulers;Hybrid Truck;SHP906;Bulk Apparel;4;2026-06-02;36;1200.00
+CR002;Global Green Haulers;Hybrid Truck;SHP907;Standard Electronics;3;2026-06-03;40;950.00
+CR003;Swift Drone Logistics;Drone Delivery;SHP908;Perishables;5;2026-06-02;2;150.00
+CR003;Swift Drone Logistics;Drone Delivery;SHP909;Standard Electronics;5;2026-06-02;3;180.00
+CR004;Interstate Rail Link;Freight Train;SHP910;Bulk Apparel;5;2026-06-02;48;2500.00
+CR004;Interstate Rail Link;Freight Train;SHP911;Hazardous Materials;2;2026-06-04;50;3100.00
+CR005;Nexus Cargo Solutions;Hybrid Truck;SHP912;Standard Electronics;3;2026-06-02;16;550.00
+CR005;Nexus Cargo Solutions;Hybrid Truck;SHP913;Perishables;4;2026-06-02;12;480.00
+CR005;Nexus Cargo Solutions;Hybrid Truck;SHP914;Bulk Apparel;3;2026-06-03;20;380.00
+CR005;Nexus Cargo Solutions;Hybrid Truck;SHP915;Hazardous Materials;1;2026-06-03;22;900.00
+CR005;Nexus Cargo Solutions;Hybrid Truck;SHP916;Standard Electronics;4;2026-06-04;15;500.00
+CR006;SkyHigh Delivery;Drone Delivery;SHP917;Perishables;5;2026-06-02;1;90.00
+CR007;EcoTransit Corp;Electric Van;SHP918;Standard Electronics;4;2026-06-02;8;220.00
+CR007;EcoTransit Corp;Electric Van;SHP919;Bulk Apparel;4;2026-06-03;9;190.00
+CR007;EcoTransit Corp;Electric Van;SHP920;Perishables;5;2026-06-04;7;260.00
+CR008;Pacific Freightways;Freight Train;SHP921;Bulk Apparel;4;2026-06-02;72;4200.00
+CR009;Metro Green Courier;Electric Van;SHP922;Standard Electronics;5;2026-06-02;5;110.00
+CR009;Metro Green Courier;Electric Van;SHP923;Perishables;5;2026-06-03;4;130.00
+CR010;Titan Logistics;Hybrid Truck;SHP924;Hazardous Materials;2;2026-06-02;30;1100.00
+CR010;Titan Logistics;Hybrid Truck;SHP925;Bulk Apparel;3;2026-06-03;32;850.00
+CR011;Alpha Cargo;Electric Van;SHP926;Standard Electronics;4;2026-06-02;11;310.00
+CR011;Alpha Cargo;Electric Van;SHP927;Perishables;4;2026-06-02;10;340.00
+CR011;Alpha Cargo;Electric Van;SHP928;Bulk Apparel;3;2026-06-03;13;270.00
+CR012;Beta Logistics;Hybrid Truck;SHP929;Hazardous Materials;1;2026-06-02;26;950.00
+CR012;Beta Logistics;Hybrid Truck;SHP930;Standard Electronics;3;2026-06-03;24;600.00
+CR013;Gamma Drone Fleet;Drone Delivery;SHP931;Perishables;5;2026-06-02;2;140.00
+CR014;Delta Rail Systems;Freight Train;SHP932;Bulk Apparel;5;2026-06-02;55;2900.00
+CR014;Delta Rail Systems;Freight Train;SHP933;Standard Electronics;4;2026-06-03;58;2700.00
+CR014;Delta Rail Systems;Freight Train;SHP934;Hazardous Materials;2;2026-06-04;60;3500.00
+CR015;Epsilon Express;Electric Van;SHP935;Perishables;4;2026-06-02;6;200.00
+CR015;Epsilon Express;Electric Van;SHP936;Standard Electronics;4;2026-06-02;7;210.00
+CR015;Epsilon Express;Electric Van;SHP937;Bulk Apparel;4;2026-06-03;8;180.00
+CR015;Epsilon Express;Electric Van;SHP938;Hazardous Materials;2;2026-06-04;12;520.00
+CR016;Zeta Hauling;Hybrid Truck;SHP939;Bulk Apparel;3;2026-06-02;18;620.00
+CR016;Zeta Hauling;Hybrid Truck;SHP940;Standard Electronics;3;2026-06-02;19;640.00
+CR016;Zeta Hauling;Hybrid Truck;SHP941;Perishables;4;2026-06-03;15;590.00
+CR017;Eta Air Couriers;Drone Delivery;SHP942;Perishables;5;2026-06-02;1;95.00
+CR017;Eta Air Couriers;Drone Delivery;SHP943;Standard Electronics;5;2026-06-03;2;110.00
+CR018;Theta Heavy Freight;Freight Train;SHP944;Bulk Apparel;4;2026-06-02;66;3800.00
+CR018;Theta Heavy Freight;Freight Train;SHP945;Hazardous Materials;1;2026-06-03;70;4600.00
+CR019;Iota Eco Delivery;Electric Van;SHP946;Standard Electronics;5;2026-06-02;5;150.00
+CR019;Iota Eco Delivery;Electric Van;SHP947;Perishables;5;2026-06-02;4;170.00
+CR020;Kappa Transport;Hybrid Truck;SHP948;Bulk Apparel;3;2026-06-02;22;700.00
+CR020;Kappa Transport;Hybrid Truck;SHP949;Hazardous Materials;2;2026-06-03;25;950.00
+CR021;Lambda Cargo;Electric Van;SHP950;Standard Electronics;4;2026-06-02;12;330.00
+CR021;Lambda Cargo;Electric Van;SHP951;Perishables;4;2026-06-03;10;360.00
+CR021;Lambda Cargo;Electric Van;SHP952;Bulk Apparel;4;2026-06-03;11;310.00
+CR021;Lambda Cargo;Electric Van;SHP953;Hazardous Materials;2;2026-06-04;14;580.00
+CR022;Mu Logistics;Hybrid Truck;SHP954;Standard Electronics;3;2026-06-02;28;720.00
+CR022;Mu Logistics;Hybrid Truck;SHP955;Bulk Apparel;3;2026-06-02;30;690.00
+CR023;Nu Drone Solutions;Drone Delivery;SHP956;Perishables;5;2026-06-02;3;160.00
+CR024;Xi Rail Services;Freight Train;SHP957;Bulk Apparel;4;2026-06-02;45;2300.00
+CR024;Xi Rail Services;Freight Train;SHP958;Standard Electronics;4;2026-06-03;47;2100.00
+CR025;Omicron Fast;Electric Van;SHP959;Perishables;4;2026-06-02;7;230.00
+CR025;Omicron Fast;Electric Van;SHP960;Standard Electronics;4;2026-06-02;6;240.00
+CR025;Omicron Fast;Electric Van;SHP961;Bulk Apparel;4;2026-06-03;8;200.00
+CR026;Pi Freight;Hybrid Truck;SHP962;Hazardous Materials;1;2026-06-02;21;890.00
+CR026;Pi Freight;Hybrid Truck;SHP963;Standard Electronics;3;2026-06-02;20;620.00
+CR026;Pi Freight;Hybrid Truck;SHP964;Bulk Apparel;3;2026-06-03;24;580.00
+CR027;Rho Drone Delivery;Drone Delivery;SHP965;Perishables;5;2026-06-02;2;120.00
+CR027;Rho Drone Delivery;Drone Delivery;SHP966;Standard Electronics;5;2026-06-02;1;135.00
+CR028;Sigma Train Line;Freight Train;SHP967;Bulk Apparel;5;2026-06-02;52;2750.00
+CR028;Sigma Train Line;Freight Train;SHP968;Hazardous Materials;2;2026-06-03;56;3400.00
+CR029;Tau Eco Express;Electric Van;SHP969;Standard Electronics;5;2026-06-02;4;125.00
+CR029;Tau Eco Express;Electric Van;SHP970;Perishables;5;2026-06-02;3;145.00
+CR030;Upsilon Haulers;Hybrid Truck;SHP971;Bulk Apparel;3;2026-06-02;34;920.00
+CR030;Upsilon Haulers;Hybrid Truck;SHP972;Hazardous Materials;2;2026-06-03;38;1250.00
+CR030;Upsilon Haulers;Hybrid Truck;SHP973;Standard Electronics;3;2026-06-04;31;880.00
+CR030;Upsilon Haulers;Hybrid Truck;SHP974;Perishables;4;2026-06-04;28;820.00
+CR031;Phi Cargo Jets;Drone Delivery;SHP975;Perishables;5;2026-06-02;2;155.00
+CR031;Phi Cargo Jets;Drone Delivery;SHP976;Standard Electronics;5;2026-06-03;3;175.00
+CR032;Chi Rail Corp;Freight Train;SHP977;Bulk Apparel;4;2026-06-02;75;4600.00
+CR032;Chi Rail Corp;Freight Train;SHP978;Standard Electronics;4;2026-06-02;72;4100.00
+CR033;Psi Movers;Electric Van;SHP979;Perishables;4;2026-06-02;9;280.00
+CR033;Psi Movers;Electric Van;SHP980;Bulk Apparel;4;2026-06-03;11;240.00
+CR034;Omega Green Logistics;Hybrid Truck;SHP981;Hazardous Materials;1;2026-06-02;23;910.00
+CR034;Omega Green Logistics;Hybrid Truck;SHP982;Standard Electronics;3;2026-06-02;18;650.00
+CR034;Omega Green Logistics;Hybrid Truck;SHP983;Bulk Apparel;3;2026-06-03;20;600.00
+CR035;EcoVanguard;Electric Van;SHP984;Standard Electronics;5;2026-06-02;6;180.00
+CR035;EcoVanguard;Electric Van;SHP985;Perishables;5;2026-06-02;5;195.00
+CR035;EcoVanguard;Electric Van;SHP986;Bulk Apparel;5;2026-06-03;7;165.00
+CR036;Apex Freight;Hybrid Truck;SHP987;Hazardous Materials;2;2026-06-02;29;1050.00
+CR036;Apex Freight;Hybrid Truck;SHP988;Standard Electronics;3;2026-06-03;26;780.00
+CR037;Zephyr Drone;Drone Delivery;SHP989;Perishables;5;2026-06-02;1;85.00
+CR037;Zephyr Drone;Drone Delivery;SHP990;Standard Electronics;5;2026-06-02;2;105.00
+CR038;IronHorse Rail;Freight Train;SHP991;Bulk Apparel;5;2026-06-02;49;2600.00
+CR038;IronHorse Rail;Freight Train;SHP992;Hazardous Materials;2;2026-06-03;54;3250.00
+CR039;GreenGlide;Electric Van;SHP993;Perishables;4;2026-06-02;8;250.00
+CR039;GreenGlide;Electric Van;SHP994;Standard Electronics;4;2026-06-02;7;260.00
+CR039;GreenGlide;Electric Van;SHP995;Bulk Apparel;4;2026-06-03;9;210.00
+CR040;Terra Hauling;Hybrid Truck;SHP996;Hazardous Materials;1;2026-06-02;27;980.00
+CR040;Terra Hauling;Hybrid Truck;SHP997;Standard Electronics;3;2026-06-02;25;690.00
+CR040;Terra Hauling;Hybrid Truck;SHP998;Bulk Apparel;3;2026-06-03;28;640.00
+CR040;Terra Hauling;Hybrid Truck;SHP999;Perishables;4;2026-06-04;22;710.00
+CR040;Terra Hauling;Hybrid Truck;SHP1000;Standard Electronics;4;2026-06-04;24;750.00
